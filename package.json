@@ -1,6 +1,6 @@
 {
   "name": "@compactjs/random",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple module to generate random values from a given range or array",
   "source": "src/index.js",
   "main": "dist/index.js",
