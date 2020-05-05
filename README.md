@@ -1,4 +1,4 @@
-<h1 align="center">@compactjs/random</h1>
+<h1 align="center">🎲<br/>@compactjs/random</h1>
 <h3 align="center">Simple module to generate random values from a given range or array.</h3>
 <p align="center">
   <a href="https://www.npmjs.com/package/@compactjs/random" target="_blank">
