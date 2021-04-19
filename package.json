@@ -15,7 +15,6 @@
     "test": "npm run build && npm run jest"
   },
   "files": [
-    "src/index.d.ts",
     "dist"
   ],
   "repository": {
