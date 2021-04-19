@@ -8,8 +8,8 @@
   "unpkg": "dist/index.umd.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "microbundle",
-    "dev": "microbundle watch",
+    "build": "microbundle --no-sourcemap",
+    "dev": "microbundle watch --no-sourcemap",
     "prepare": "npm run build",
     "jest": "jest",
     "test": "npm run build && npm run jest"
